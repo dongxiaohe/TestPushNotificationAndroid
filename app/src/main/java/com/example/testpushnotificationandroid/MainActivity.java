@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 //                    String msg = getString(R.string.token_prefix, token);
                     Log.e("TestPushNotification", token);
                     Context context = getBaseContext();
-                    Toast.makeText(context, token, Toast.LENGTH_LONG).show();
+//                    Toast.makeText(context, token, Toast.LENGTH_LONG).show();
                 }
                 System.out.println(" get task .......................");
             }
