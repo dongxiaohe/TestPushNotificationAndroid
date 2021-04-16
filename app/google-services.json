@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977311155780",
+    "project_id": "testpushnotificationandr-bbced",
+    "storage_bucket": "testpushnotificationandr-bbced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977311155780:android:dfc6684e3f232488169e11",
+        "android_client_info": {
+          "package_name": "com.example.testpushnotificationandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977311155780-b368sggke3hq9bvofvc393n3c5fo3vks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfscIzRvge2q4mawAFpZKaXMqEvNI2hIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977311155780-b368sggke3hq9bvofvc393n3c5fo3vks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
